@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1522262734 source:c:\users\localadmin\desktop\hw2\main.cpp
+	<iostream>
+	"StackQueue.h"
+	"SLinkedList.h"
+
+1522344415 source:c:\users\localadmin\desktop\hw2\slinkedlist.cpp
+	"SLinkedList.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1522263631 c:\users\localadmin\desktop\hw2\slinkedlist.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1522344629 c:\users\localadmin\desktop\hw2\stackqueue.h
+	"SLinkedList.h"
+	<stdio.h>
+	<string>
+	<iostream>
+
+1522263768 source:c:\users\localadmin\desktop\hw2\stackqueue.cpp
+	<iostream>
+	"StackQueue.h"
+	"SLinkedList.h"
+	<stdio.h>
+	<string>
+
+1522262734 source:c:\users\localadmin\desktop\lab2\part1\main.cpp
+	<iostream>
+	"StackQueue.h"
+	"SLinkedList.h"
+
+1522344629 c:\users\localadmin\desktop\lab2\part1\stackqueue.h
+	"SLinkedList.h"
+	<stdio.h>
+	<string>
+	<iostream>
+
+1522263631 c:\users\localadmin\desktop\lab2\part1\slinkedlist.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1522344415 source:c:\users\localadmin\desktop\lab2\part1\slinkedlist.cpp
+	"SLinkedList.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1522263768 source:c:\users\localadmin\desktop\lab2\part1\stackqueue.cpp
+	<iostream>
+	"StackQueue.h"
+	"SLinkedList.h"
+	<stdio.h>
+	<string>
+
